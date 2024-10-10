@@ -2,7 +2,6 @@
 
 ## Uma página web que simula um iPod.
 
-Link do site no [Netlify](https://app.netlify.com/):
 
 [https://storied-daifuku-41f959.netlify.app/](https://storied-daifuku-41f959.netlify.app/)
 
