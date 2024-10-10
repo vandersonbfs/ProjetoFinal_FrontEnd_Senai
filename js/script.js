@@ -1,4 +1,3 @@
-// Lista de musicas Array 00:33 do video
 let musicas = [
     {
         titulo: 'Song 2',

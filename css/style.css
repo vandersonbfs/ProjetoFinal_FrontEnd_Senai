@@ -1,4 +1,3 @@
-
 *{
     padding: 0;
     margin: 0;
@@ -68,8 +67,26 @@ header{
         height: 6px;
         width: 50%;
         background-color: #eee;
-    }    
-
+    } 
+.tela .fundo{
+    width: 100%;
+    height: 280px;
+    z-index: -1;
+}       
+.opcoes{
+    position: absolute;
+    left: 10%;
+    width: 80%;
+}
+.opcoes ul{
+    position: fixed;
+    top: 120px;
+    list-style: none;
+}
+.opcoes ul li:hover{
+    background: #4788c7;
+    color: white;
+}
 .tempo {
     position: absolute;
     top: 270px;
@@ -105,6 +122,11 @@ header{
 .divisao{
     height: 80px;
 }
+.btn-menu a{
+    text-decoration: none;
+    color: white;
+}
+
 .btn-circular{
     margin: auto;
     display: grid;
