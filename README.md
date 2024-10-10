@@ -6,7 +6,7 @@ Link do site no N[etlify](https://app.netlify.com/):
 
 [https://storied-daifuku-41f959.netlify.app/](https://storied-daifuku-41f959.netlify.app/)
 
-![img-projeto.PNG](Desenvolvedor%20Front%20End%20-%20Projeto%20Final%20119dde5990b68069b382ebb95cf634ef/img-projeto.png)
+![img-projeto.PNG](assets/img/Captura de tela de 2024-10-08 00-15-25.png)
 
 **HTML**
 
